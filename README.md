@@ -1,0 +1,2 @@
+# fun-cheap
+ai bot
